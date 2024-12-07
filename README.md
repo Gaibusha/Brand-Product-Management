@@ -10,7 +10,7 @@ Welcome to the Brand Product Management web application! This project is designe
 - [Deployment](#deployment)
 - [Challenges Faced](#challenges-faced)
 - [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
+
 
 ## Project Overview
 The Brand Product Management application allows users to manage brand products, track inventory, and analyze product performance. This project was a solo effort, designed and developed by Gaibusha Shaik, within a tight deadline of seven days.
@@ -39,10 +39,11 @@ The Brand Product Management application allows users to manage brand products, 
 - Performance Analytics: View analytics on product performance.
 
   ### Deployment
-  -The project is deployed on Vercel. You can view the live application.
+- The project is deployed on Vercel. You can view the live application.
 
   ### Challenges Faced
--Team Restructure: Initially, a team was allocated for frontend, backend, UI/UX, and testing. However, due to team members exiting and reassignments, I completed the project solo.
+- Team Restructure: Initially, a team was allocated for frontend, backend, UI/UX, and testing. 
+  However, due to team members exiting and reassignments, I completed the project solo.
 - Lack of Testing Support: The testing team was not allocated, leading to minimal testing.
 - Time Constraints: The project had a seven-day deadline, requiring efficient time management and prioritization of core features.
 
